@@ -1,2 +1,2 @@
 # PotaruAR
-AR experience for Potaru by Janet McKellar
+AR experience made by MindWorks (Dalton Sessumes) for Potaru by Janet McKellar
